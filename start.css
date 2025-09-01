@@ -1,0 +1,26 @@
+body{
+    margin: 40px;
+}
+.intro{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 35px;
+    text-size-adjust: bold;
+    text-decoration: underline;
+}
+p2{
+    font-size: 30px;
+}
+p3{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 50px;
+}
